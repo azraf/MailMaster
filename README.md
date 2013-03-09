@@ -10,12 +10,7 @@ jQuery,
 and BackboneJS
 
 Thanks:
-to Javascript
-to NodeJS
-to CompoundJS
-to NodeMailer
-to jQuery
-to BackboneJS
+>>> Javascript, NodeJS, CompoundJS, NodeMailer, jQuery and BackboneJS
 
 Current status:
 I am working on to give the first alpha release.
