@@ -4,10 +4,10 @@ Mail Master
 A full featured email marketing application with NodeJS
 
 I am using:
-CompoundJS[https://github.com/1602/compound]
-NodeMailer[https://github.com/andris9/Nodemailer]
-jQuery
-BackboneJS
+CompoundJS[https://github.com/1602/compound],
+NodeMailer[https://github.com/andris9/Nodemailer],
+jQuery,
+and BackboneJS
 
 Thanks:
 to Javascript
